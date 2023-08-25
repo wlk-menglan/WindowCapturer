@@ -1,0 +1,12 @@
+#服务端口
+server:
+  port: 8081
+#大屏幕数量
+bigScreensNum: 6
+#大屏幕分辨率
+bigScreen:
+  width: 1280
+  height: 720
+#大屏幕每行、列的小屏幕个数
+numScreensPerRow: 2
+numScreensPerColumn: 2
